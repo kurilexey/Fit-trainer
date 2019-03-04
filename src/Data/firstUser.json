@@ -1,0 +1,224 @@
+[
+    {
+        "name": "AlexKurilo",
+        "email": "alex.kurilo77@gmail.com",
+        "password": "q",
+        "exercises": [
+            {
+                "exercisesName": "Exercise #1",
+                "measurementType": "kilogramms"
+            },
+            {
+                "exercisesName": "Exercise #2",
+                "measurementType": "meters"
+            },
+            {
+                "exercisesName": "Exercise #3",
+                "measurementType": "minutes"
+            }
+        ],
+        "workouts": [
+            {
+                "id": "0",
+                "date": "20190211",
+                "exercises": [
+                    {
+                        "id": "0",
+                        "exercisesName": "Exercise #1",
+                        "numberInList": "0",
+                        "measurementType": "kilogramms",
+                        "measurements": "1",
+                        "repeats": "1"
+                    },
+                    {
+                        "id": "1",
+                        "exercisesName": "Exercise #2",
+                        "numberInList": "1",
+                        "measurementType": "meters",
+                        "measurements": "2",
+                        "repeats": "2"
+                    },
+                    {
+                        "id": "2",
+                        "exercisesName": "Exercise #3",
+                        "numberInList": "2",
+                        "measurementType": "minutes",
+                        "measurements": "3",
+                        "repeats": "3"
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "date": "20190213",
+                "exercises":[
+                    {
+                        "id": "0",
+                        "exercisesName": "Exercise #4",
+                        "numberInList": "3",
+                        "measurementType": "kilogramms",
+                        "measurements": "4",
+                        "repeats": "4"
+                    },
+                    {
+                        "id": 1,
+                        "exercisesName": "Exercise #5",
+                        "numberInList": "4",
+                        "measurementType": "meters",
+                        "measurements": "5",
+                        "repeats": "5"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "date": "20190215",
+                "exercises":[
+                    {
+                        "id": "0",
+                        "exercisesName": "Exercise #6",
+                        "numberInList": "5",
+                        "measurementType": "minutes",
+                        "measurements": "6",
+                        "repeats": "6"
+                    },
+                    {
+                        "id": "1",
+                        "exercisesName": "Exercise #7",
+                        "numberInList": "6",
+                        "measurementType": "kilogramms",
+                        "measurements": "7",
+                        "repeats": "7"
+                    },
+                    {
+                        "id": "2",
+                        "exercisesName": "Exercise #8",
+                        "numberInList": "7",
+                        "measurementType": "meters",
+                        "measurements": "8",
+                        "repeats": "8"
+                    },
+                    {
+                        "id": "3",
+                        "exercisesName": "Exercise #9",
+                        "numberInList": "8",
+                        "measurementType": "minutes",
+                        "measurements": "9",
+                        "repeats": "9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "",
+        "email": "kurilo.alex77@gmail.com",
+        "password": "1",
+        "exercises": [
+            {
+                "exercisesName": "Exercise #1",
+                "measurementType": "kilogramms"
+            },
+            {
+                "exercisesName": "Exercise #2",
+                "measurementType": "meters"
+            },
+            {
+                "exercisesName": "Exercise #3",
+                "measurementType": "minutes"
+            }
+        ],
+        "workouts": [
+            {
+                "id": "0",
+                "date": "20190221",
+                "exercises": [
+                    {
+                        "id": "0",
+                        "exercisesName": "Exercise #1",
+                        "numberInList": "0",
+                        "measurementType": "kilogramms",
+                        "measurements": "1",
+                        "repeats": "1"
+                    },
+                    {
+                        "id": "1",
+                        "exercisesName": "Exercise #2",
+                        "numberInList": "1",
+                        "measurementType": "meters",
+                        "measurements": "2",
+                        "repeats": "2"
+                    },
+                    {
+                        "id": "2",
+                        "exercisesName": "Exercise #3",
+                        "numberInList": "2",
+                        "measurementType": "minutes",
+                        "measurements": "3",
+                        "repeats": "3"
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "date": "20190223",
+                "exercises":[
+                    {
+                        "id": "0",
+                        "exercisesName": "Exercise #4",
+                        "numberInList": "3",
+                        "measurementType": "kilogramms",
+                        "measurements": "4",
+                        "repeats": "4"
+                    },
+                    {
+                        "id": 1,
+                        "exercisesName": "Exercise #5",
+                        "numberInList": "4",
+                        "measurementType": "meters",
+                        "measurements": "5",
+                        "repeats": "5"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "date": "20190225",
+                "exercises":[
+                    {
+                        "id": "0",
+                        "exercisesName": "Exercise #6",
+                        "numberInList": "5",
+                        "measurementType": "minutes",
+                        "measurements": "6",
+                        "repeats": "6"
+                    },
+                    {
+                        "id": "1",
+                        "exercisesName": "Exercise #7",
+                        "numberInList": "6",
+                        "measurementType": "kilogramms",
+                        "measurements": "7",
+                        "repeats": "7"
+                    },
+                    {
+                        "id": "2",
+                        "exercisesName": "Exercise #8",
+                        "numberInList": "7",
+                        "measurementType": "meters",
+                        "measurements": "8",
+                        "repeats": "8"
+                    },
+                    {
+                        "id": "3",
+                        "exercisesName": "Exercise #9",
+                        "numberInList": "8",
+                        "measurementType": "minutes",
+                        "measurements": "9",
+                        "repeats": "9"
+                    }
+                ]
+            }
+        ]
+    }
+]

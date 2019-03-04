@@ -1,0 +1,202 @@
+.App {
+  text-align: center;
+  font-size: 10px;
+}
+
+.myPage{
+  display: flex;
+}
+
+.SideBar{
+  width: 20%;
+  height: 100vh;
+  background-color: deepskyblue;
+  background-image: url(./images/gandex.ru-18509_6e37e56a65bafc94570830cc553a664f.jpg);
+  outline: 1px solid deepskyblue;
+  display: flex;
+  flex-direction: column;
+}
+
+.Header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10%;
+}
+
+hr{
+  width: 80%;
+  color: grey;
+}
+
+.App-logo{
+  width: 25%;
+  height: 25%;
+}
+
+.button{
+  width: 80%;
+  display: flex;
+  margin: 1rem 0;
+  align-items: center;
+  justify-content: center;
+  padding: 10%;
+}
+
+.Component{
+  width: 80%;
+  height: 100vh;
+  background: beige;
+}
+
+.inComponent{
+  height: 100%;
+  padding: 0 5%;
+}
+
+.firstLine{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 10%;
+}
+
+.firstLine_user{
+  display: flex;
+  align-items: center;
+
+}
+
+.signWindow{
+  max-height: 65%;
+  flex-direction: column;
+  margin-top: 5%;
+  padding-top: 5%;
+  background-color: #ffffff;
+  border-radius: 1vh;
+  position: relative;
+}
+
+.signHeader{
+  background-color: #CD00CD;
+  border-radius: 0.3vh;
+  width: 86%;
+  position: absolute;
+  top: -2vh;
+  left: 7%;
+  color: #ffffff;
+  height: 10vh;
+  line-height: 0.7;
+}
+
+.signBody{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 10%;
+}
+
+.stringData{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.blockStrings{
+  overflow: auto;
+  max-height: 40vh;
+}
+
+.signUpLink{
+  color: #CD00CD;
+}
+
+.footerIn{
+  position: absolute;
+  left: 25%;
+  bottom: 1%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 75%;
+  height: 10%;
+}
+
+.footerInlinks{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70%;
+}
+
+.footerLinksSign{
+  display: inline-flex;
+}
+
+.footerLinksLabel{
+  margin: 0 1.5rem;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.measurementType{
+  width: 5rem;
+}
+
+.myDashboardPage{
+  height: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.linkBlock{
+  height: 10%;
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+.myDashboardPage a button{
+  width: 30rem;
+  margin: 0.1rem;
+}
+
+/*.Call__Container_landscape{
+  width: 100vh;
+  height: 60vh;
+}*/
+
+.myButton{
+  margin:0.5rem 0.2rem;
+  border-radius: 0.3rem;
+  border: 1px solid #00C5CD;
+}
+
+.illumination{
+  background-color: #00C5CD;
+}
+
+.hover:hover{
+  background-color: #00BFFF;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+
+
+.myButton div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*
+.MuiButtonBase-root-28{
+  float: left;
+}*/
